@@ -24,6 +24,10 @@ public class Client {
     private String firstName;
     @NonNull
     private String lastName;
+    @NonNull
+    private Integer phoneNumber;
+    private String address;
+    private String eMail;
 
     @OneToMany(mappedBy = "Client")
     private ArrayList<Product> products;

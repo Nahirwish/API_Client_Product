@@ -23,7 +23,11 @@ public class Product {
     @NonNull
     private String productDescription;
     @NonNull
+    private String productImage;
+    @NonNull
     private double productPrice;
+    @NonNull
+    private Integer stock;
 
     @ManyToOne
     private Client client;
