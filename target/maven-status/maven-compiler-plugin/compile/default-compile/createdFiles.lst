@@ -1,0 +1,10 @@
+com\example\API_Client_Product\models\Product.class
+com\example\API_Client_Product\models\Client.class
+com\example\API_Client_Product\services\ProductService.class
+com\example\API_Client_Product\ApiClientProductApplication.class
+com\example\API_Client_Product\models\Image.class
+com\example\API_Client_Product\controllers\ProductController.class
+com\example\API_Client_Product\controllers\ClientController.class
+com\example\API_Client_Product\repositories\ClientRepository.class
+com\example\API_Client_Product\services\ClientService.class
+com\example\API_Client_Product\repositories\ProductRepository.class
